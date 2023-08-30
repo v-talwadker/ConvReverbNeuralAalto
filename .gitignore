@@ -1,0 +1,6 @@
+#########
+*.jucer
+# Folders #
+#########
+*Builds/
+*JuceLibraryCode/
